@@ -54,3 +54,22 @@ GET: Get all issued books with fine
     >> npm i nodemon --save-dev
 
     >> npm run dev
+
+M: MongoDB
+
+MERN Stack
+
+## MongoDB:
+
+    >> npm i mongoose
+    >> npm install mongodb
+    >> npm i dotenv
+
+    mongodb+srv://rohankinnal:Ltn2zL3lzQoHgzV4@cluster0.mszpfh2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+    mongodb+srv://rohankinnal:rohankinnal@cluster0.mszpfh2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+## MVC Architecture
+
+    >> M: Model (Structure of ur mongodb)
+    >> V: View (ReactJs)
+    >> C: Controllers (Brain/Logic of our api appln)
